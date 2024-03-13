@@ -1,0 +1,8 @@
+driverClassName=org.postgresql.Driver
+userName=postgres
+password=postgres
+url=jdbc:postgresql://localhost:5432/yourDBName
+maxPool=10
+batchAlertDir=<Your Oracle_Home Path>\user_projects\domains\base_domain\app_config\caution
+fileTempDir=<Your Oracle_Home Path>\user_projects\domains\base_domain\app_config\fileTemplete
+imageDir=<Your Oracle_Home Path>\user_projects\domains\base_domain\app_config\imageDir
